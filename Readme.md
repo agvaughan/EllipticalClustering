@@ -2,6 +2,7 @@
 The files included here are used to generate tests of Random Mixed Selectivity in the following paper:
 
 *Structured and cell-type-specific encoding of decision variables in orbitofrontal cortex*
+
 Junya Hirokawa, Alexander Vaughan, Paul Masset Torben Ott and Adam Kepecs
 
 These routines test the assumption that a set of random n-dimensional response vectors constitute an elliptical Gaussian distribution.  In the context of this paper, the response vectors are n-dimensional coefficients corresponding to neuronal response profiles after PCA.  IFF these coefficients are distributed as an elliptical Gaussian, the underlying neuronal representations can be said to show Random Mixed Selectivity.
